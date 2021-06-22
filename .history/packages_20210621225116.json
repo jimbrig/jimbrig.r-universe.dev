@@ -1,0 +1,18 @@
+[
+  {
+    "package": "jimstools",
+    "url": "https://github.com/jimbrig/jimstools"
+  },
+  {
+    "package": "browsr",
+    "url": "https://github.com/jimbrig/browsr"
+  },
+  {
+    "package": "propalloc",
+    "url": "https://github.com/jimbrig/propalloc"
+  },
+  {
+    "package": "shiny.fluent",
+    "url": "https://github.com/jimbrig/shiny.fluent"
+  }
+]

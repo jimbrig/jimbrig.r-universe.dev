@@ -26,21 +26,5 @@
   {
     "package": "EDA",
     "url": "https://github.com/jimbrig/EDA"
-  },
-  {
-    "package": "jimstemplates",
-    "url": "https://github.com/jimbrig/jimstemplates"
-  },
-  {
-    "package": "containerit",
-    "url": "https://github.com/jimbrig/containerit"
-  },
-  {
-    "package": "rtraining",
-    "url": "https://github.com/jimbrig/rtraining"
-  },
-  {
-    "package": "dedup",
-    "url": "https://github.com/jimbrig/dedup"
   }
 ]
