@@ -1,3 +1,4 @@
 # jimbrig's R Universe
 
-<https://github.com/r-universe/jimbrig>
+GitHub Repository: <https://github.com/r-universe/jimbrig> 
+Live Site: <https://jimbrig.r-universe.dev>
