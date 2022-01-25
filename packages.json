@@ -4,6 +4,14 @@
     "url": "https://github.com/jimbrig/jimstools"
   },
   {
+    "package": "lossrx",
+    "url": "https://github.com/jimbrig/lossrx"
+  },
+  {
+    "package": "templateeR",
+    "url": "https://github.com/jimbrig/templateeR"
+  },
+  {
     "package": "browsr",
     "url": "https://github.com/jimbrig/browsr"
   },
