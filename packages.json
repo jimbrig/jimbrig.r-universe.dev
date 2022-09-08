@@ -24,10 +24,6 @@
     "url": "https://github.com/jimbrig/browsr"
   },
   {
-    "package": "propalloc",
-    "url": "https://github.com/jimbrig/propalloc"
-  },
-  {
     "package": "buildtools",
     "url": "https://github.com/jimbrig/buildtools"
   },
