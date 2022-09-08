@@ -8,6 +8,14 @@
     "url": "https://github.com/jimbrig/lossrx"
   },
   {
+    "package": "losdevtapp",
+    "url": "https://github.com/jimbrig/lossdevtapp"
+  },
+  {
+    "package": "configR",
+    "url": "https://github.com/jimbrig/configR"
+  },
+  {
     "package": "templateeR",
     "url": "https://github.com/jimbrig/templateeR"
   },
