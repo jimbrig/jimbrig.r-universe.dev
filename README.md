@@ -3,7 +3,7 @@
 > [!NOTE]
 > This repository hosts the [`packages.json`](packages.json) configuration file used to build my [R Universe](https://jimbrig.r-universe.dev/).
 
-- **Live Site:** <https://jimbrig.r-universe.dev>
+- **Live Site:** <https://jimbrig.r-universe.dev/>
 - **GitHub Repository:** <https://github.com/r-universe/jimbrig>
 
 ## Configuration
