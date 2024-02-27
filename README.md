@@ -49,7 +49,7 @@ All configuration is housed in the [`packages.json`](packages.json):
 ]
 ```
 
-</p>details>
+</p></details>
 
  ## Adding New Packages
 
@@ -75,8 +75,8 @@ alternatively, configure the `repos` option:
 ```R
 options(
     repos = c(
-        CRAN = "https://cloud.r-project.org",
-        jimbrig = "https://jimbrig.r-universe.dev"
+        jimbrig = "https://jimbrig.r-universe.dev",
+        CRAN = "https://cloud.r-project.org"
     )
 )
 install.packages("<packageName>")
