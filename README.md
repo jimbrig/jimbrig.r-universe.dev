@@ -6,6 +6,12 @@
 - **Live Site:** <https://jimbrig.r-universe.dev/>
 - **GitHub Repository:** <https://github.com/r-universe/jimbrig>
 
+## Badges
+
+[![Build package](https://github.com/r-universe/jimbrig/actions/workflows/build.yml/badge.svg)](https://github.com/r-universe/jimbrig/actions/workflows/build.yml)
+[![Cleanup package server](https://github.com/r-universe/jimbrig/actions/workflows/cleanup.yml/badge.svg)](https://github.com/r-universe/jimbrig/actions/workflows/cleanup.yml)
+[![Update Universe](https://github.com/r-universe/jimbrig/actions/workflows/sync.yml/badge.svg)](https://github.com/r-universe/jimbrig/actions/workflows/sync.yml)
+
 ## Configuration
 
 All configuration is housed in the [`packages.json`](packages.json):
