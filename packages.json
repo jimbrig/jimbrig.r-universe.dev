@@ -30,5 +30,17 @@
   {
     "package": "rtraining",
     "url": "https://github.com/jimbrig/rtraining"
+  },
+  {
+    "package": "freestiler",
+    "url": "https://github.com/jimbrig/freestiler"
+  },
+  {
+    "package": "gdalraster.windows",
+    "url": "https://github.com/jimbrig/gdalraster.windows"
+  },
+  {
+    "package": "gdalvector",
+    "url": "https://github.com/jimbrig/gdalvector"
   }
 ]
