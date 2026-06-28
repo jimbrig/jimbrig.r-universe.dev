@@ -1,15 +1,7 @@
 [
   {
-    "package": "jimstools",
-    "url": "https://github.com/jimbrig/jimstools"
-  },
-  {
     "package": "lossrx",
     "url": "https://github.com/jimbrig/lossrx"
-  },
-  {
-    "package": "lossdevtapp",
-    "url": "https://github.com/jimbrig/lossdevtapp"
   },
   {
     "package": "configR",
@@ -22,10 +14,6 @@
   {
     "package": "browsr",
     "url": "https://github.com/jimbrig/browsr"
-  },
-  {
-    "package": "buildtools",
-    "url": "https://github.com/jimbrig/buildtools"
   },
   {
     "package": "rtraining",
