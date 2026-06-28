@@ -38,9 +38,5 @@
   {
     "package": "gdalraster.windows",
     "url": "https://github.com/jimbrig/gdalraster.windows"
-  },
-  {
-    "package": "gdalvector",
-    "url": "https://github.com/jimbrig/gdalvector"
   }
 ]
