@@ -38,5 +38,9 @@
   {
     "package": "shinyhealth",
     "url": "https://github.com/jimbrig/shinyhealth"
+  },
+  {
+    "package": "entratar",
+    "url": "https://github.com/jimbrig/entratar"
   }
 ]
